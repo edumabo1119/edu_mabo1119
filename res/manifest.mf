@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Created-By: <Bova>
+Main-Class: ua.edu.sumdu.ta.pr1.MainClass
